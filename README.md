@@ -17,5 +17,7 @@ EDA on Credit Card Dataset
 ## Auto EDA
 ```
 Dtale
-Data Prep
+Dataprep
+Lux
+Autoviz
 ```
