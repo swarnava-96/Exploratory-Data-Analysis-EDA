@@ -14,7 +14,7 @@ https://www.kaggle.com/c/titanic
 
 ## EDA3
 ```
-EDA on Credit Card Dataset
+EDA on Bank Loan Dataset
 ```
 https://www.kaggle.com/rattlebones/bank-loans-dataset
 
