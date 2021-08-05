@@ -16,6 +16,7 @@ https://www.kaggle.com/c/titanic
 ```
 EDA on Credit Card Dataset
 ```
+https://www.kaggle.com/rattlebones/bank-loans-dataset
 
 ## Auto EDA
 ```
