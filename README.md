@@ -18,6 +18,12 @@ EDA on Bank Loan Dataset
 ```
 https://www.kaggle.com/rattlebones/bank-loans-dataset
 
+## Olympics Data Analysis
+```
+EDA on 120 years of Olympics Data
+```
+https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results?select=noc_regions.csv
+
 ## Auto EDA
 ```
 Dtale
