@@ -1,5 +1,9 @@
 # Exploratory-Data-Analysis-EDA
 
+## eda basics
+```
+Basic Univariate, Bivariate and Multivariate Analysis on iris data set.
+```
 ## EDA
 ```
 EDA on Advance House Price Prediction
